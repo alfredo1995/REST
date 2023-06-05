@@ -1,0 +1,13 @@
+C:\Users\55319\Downloads\03 - API Completa Versao .NET Core3.1\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.deps.json
+C:\Users\55319\Downloads\03 - API Completa Versao .NET Core3.1\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\Users\55319\Downloads\03 - API Completa Versao .NET Core3.1\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.pdb
+C:\Users\55319\Downloads\03 - API Completa Versao .NET Core3.1\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\Users\55319\Downloads\03 - API Completa Versao .NET Core3.1\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+C:\Users\55319\Downloads\03 - API Completa Versao .NET Core3.1\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.AssemblyReference.cache
+C:\Users\55319\Downloads\03 - API Completa Versao .NET Core3.1\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55319\Downloads\03 - API Completa Versao .NET Core3.1\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\55319\Downloads\03 - API Completa Versao .NET Core3.1\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfo.cs
+C:\Users\55319\Downloads\03 - API Completa Versao .NET Core3.1\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Users\55319\Downloads\03 - API Completa Versao .NET Core3.1\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CopyComplete
+C:\Users\55319\Downloads\03 - API Completa Versao .NET Core3.1\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\Users\55319\Downloads\03 - API Completa Versao .NET Core3.1\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.pdb

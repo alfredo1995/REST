@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8HS1U0ziWGCNeFMS2WABNA73k4TqwRS038qyYidYsGIFPY8wK+Ioo0YtSpIhDVbVRPUdaPs+r/TKSsc0Jf4d3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\55319\\Downloads\\03 - API Completa Versao .NET Core3.1\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\55319\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\55319\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
