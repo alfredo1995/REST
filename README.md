@@ -1,26 +1,3 @@
-O  Produto que eu criei e não um Curso pq não há suporte e é sobre Logica de programação. Eu falo sobre Variáveis e Constantes,  String, Operadores, While, Do While, For, Foreach e etc.. Finalizo o produto em formato de vídeo falando sobre O que é classe e Objetos.
-
-o sr. Eduardo viu que estava errado, aproveitou que eu tinha um canal do youtube e um produto na hotmart para continuar fazendo acusações em vez de se retratar.
-
-Eu criei o canal pra ir postando meu progresso, o que eu ia aprendendo no decorrer da minha evolução profissional. 
-
-Devido a necessidade, acabei tendo que fazer alguns empreendimento e ate mesmo me submetendo algumas humilhações em troca de ajuda. Mas jamais fazendo algo ilícito!
-
-O teor do meu canal e 100% didático. Eu apenas deixo um "patrocinador " no canal, no qual eu posiciono ele na descrição dos meus vídeos , onde todos os vídeos tem a mesma descrição. Mas eu nunca em nenhum momento , faço menção de vendas nos meus vídeos!
-
-Aproveitavam que eu criei um Produto e não um Curso pq não há suporte. Sobre lógica de programação para desferir novas acusações e tentar esconder as primeiras, como expliquei no começo. Mas NÃO VENDO, não faço menção de vendas no meu canal.
-
-
-
-
-
-
-
-
-
-
-
-
 inicialização back end (abrindo swagger)
 
     ctrl + shift + b
