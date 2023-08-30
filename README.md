@@ -16,7 +16,7 @@ soluções para possiveis erro na depedencia do front
     npm pkill node
     npm install  
   
- app em : https://github.com/alfredo1995/SPA7 
+ app em : https://github.com/alfredo1995/SPA7](https://github.com/alfredo1995/SPA
  
  <br>
  
