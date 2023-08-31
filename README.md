@@ -18,7 +18,7 @@ soluções para possiveis erro na depedencia do front
   
  app em : https://github.com/alfredo1995/SPA.git
  
- <br>
+ <br> 
  
  	Essa API recebe Request automaticamente da aplicação pelo verbo GET, acessando a base de dados 
 	através da class abstrata Repository que está sendo injetada através de uma interface injetada 
