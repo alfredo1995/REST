@@ -1,31 +1,31 @@
-inicialização back end (abrindo swagger)
+back end initialization (opening swagger)
 
     ctrl + shift + b
     inicializar na DevIO.Api
   
-inicialização front end ( abrindo aplicação)
+front end initialization (opening application)
   
     npm install
     npm update 
     npm start  
     npm s 
   
-soluções para possiveis erro na depedencia do front 
+solutions for possible errors in the front dependency
 
     npm cache clean --force
     npm pkill node
     npm install  
   
- app em : https://github.com/alfredo1995/SPA.git
+ app  : https://github.com/alfredo1995/SPA.git
  
  <br>  
  
- 	Essa API recebe Request automaticamente da aplicação pelo verbo GET, acessando a base de dados 
-	através da class abstrata Repository que está sendo injetada através de uma interface injetada 
-	no construtor da Controller p/ n precisar passar pela camada de negocio, evitando autoacoplamento 
+	This API automatically receives Request from the application via the GET verb, accessing the database
+	through the abstract Repository class being injected through an injected interface
+	in the Controller constructor so as not to need to go through the business layer, avoiding self-coupling
 
-	Retorna uma entidade de negocio convertido pelo Repository do Entity Framework e com AutoMap 
-	fazendo essa entidade virar uma DTO (Viewmodel) rertonando em json para o client
+	Returns a business entity converted by the Entity Framework Repository and with AutoMap
+	making this entity become a DTO (Viewmodel) returning in json to the client
 <br>
 
 criar solution blank como projeto
