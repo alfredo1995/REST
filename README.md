@@ -21,7 +21,7 @@ solutions for possible errors in the front dependency
  <br>  
  
 	This API automatically receives Request from the application via the GET verb, accessing the database
-	through the abstract Repository class being injected through an injected interface
+	through the abstract Repository class being injected through an injected interface 
 	in the Controller constructor so as not to need to go through the business layer, avoiding self-coupling
 
 	Returns a business entity converted by the Entity Framework Repository and with AutoMap
