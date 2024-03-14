@@ -38,3 +38,9 @@ Integration and Good Practices
     3. Error Management: Handle errors appropriately on both the server and client sides to provide a consistent and user-friendly user experience.
 
     4. Coding Standards: Follow the recommended coding standards for both technologies (C#/.NET and TypeScript/Angular) to ensure clean and maintainable code.
+
+    
+
+https://github.com/alfredo1995/REST/assets/71193893/d33814f9-5c93-4eec-b9d6-34d73c29a941
+
+
