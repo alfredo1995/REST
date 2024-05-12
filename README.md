@@ -4,7 +4,7 @@
 
     - Integration with other platforms
 
-    - Expose data to be consumed via Mobile application
+    - Expose data to be consumed via Mobile application 
 
     - Create a back-end to be consumed with a SPA model application
 
@@ -19,7 +19,7 @@ ASP.NET Core Project
 
     3. Security: Implement proper authentication and authorization to protect your API from unauthorized access. Consider using JWT (JSON Web Tokens) for authentication.
 
-    4. ORM (Object-Relational Mapping): Use Entity Framework Core to map domain objects to database tables, simplifying interaction with the SQL Server database.
+    4. ORM (Object-Relational Mapping): Use Entity Framework Core to map domain objects to database tables, simplifying interaction with the SQL Serve r database.
 
 Angular Project
 
