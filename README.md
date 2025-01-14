@@ -10,7 +10,7 @@
 
     - Work in the Microservices model 
  
- 
+  
 ASP.NET Core Project
 
     1. Clean Architecture: Consider adopting a clean architecture to clearly separate responsibilities into layers such as domain, application, infrastructure, and user interface. This will facilitate application maintenance and testing.
