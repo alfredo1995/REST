@@ -9,7 +9,7 @@
     - Create a back-end to be consumed with a SPA model application
 
     - Work in the Microservices model 
- 
+  
   
 ASP.NET Core Project
 
